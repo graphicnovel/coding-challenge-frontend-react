@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/stolen-bike-index/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/stolen-bike-index/static/js/main.5597d374.chunk.js",
-    "main.js.map": "/stolen-bike-index/static/js/main.5597d374.chunk.js.map",
-    "runtime-main.js": "/stolen-bike-index/static/js/runtime-main.9b568abb.js",
-    "runtime-main.js.map": "/stolen-bike-index/static/js/runtime-main.9b568abb.js.map",
-    "static/js/2.55f275a6.chunk.js": "/stolen-bike-index/static/js/2.55f275a6.chunk.js",
-    "static/js/2.55f275a6.chunk.js.map": "/stolen-bike-index/static/js/2.55f275a6.chunk.js.map",
-    "static/js/3.c92880b2.chunk.js": "/stolen-bike-index/static/js/3.c92880b2.chunk.js",
-    "static/js/3.c92880b2.chunk.js.map": "/stolen-bike-index/static/js/3.c92880b2.chunk.js.map",
+    "main.js": "/stolen-bike-index/static/js/main.07542201.chunk.js",
+    "main.js.map": "/stolen-bike-index/static/js/main.07542201.chunk.js.map",
+    "runtime-main.js": "/stolen-bike-index/static/js/runtime-main.f6d37ae7.js",
+    "runtime-main.js.map": "/stolen-bike-index/static/js/runtime-main.f6d37ae7.js.map",
+    "static/js/2.60ca3f1c.chunk.js": "/stolen-bike-index/static/js/2.60ca3f1c.chunk.js",
+    "static/js/2.60ca3f1c.chunk.js.map": "/stolen-bike-index/static/js/2.60ca3f1c.chunk.js.map",
+    "static/js/3.c533ed88.chunk.js": "/stolen-bike-index/static/js/3.c533ed88.chunk.js",
+    "static/js/3.c533ed88.chunk.js.map": "/stolen-bike-index/static/js/3.c533ed88.chunk.js.map",
     "index.html": "/stolen-bike-index/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/stolen-bike-index/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.55f275a6.chunk.js.LICENSE.txt": "/stolen-bike-index/static/js/2.55f275a6.chunk.js.LICENSE.txt"
+    "static/js/2.60ca3f1c.chunk.js.LICENSE.txt": "/stolen-bike-index/static/js/2.60ca3f1c.chunk.js.LICENSE.txt",
+    "static/media/Berliner_Polizei.438765e9.png": "/stolen-bike-index/static/media/Berliner_Polizei.438765e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b568abb.js",
-    "static/js/2.55f275a6.chunk.js",
+    "static/js/runtime-main.f6d37ae7.js",
+    "static/js/2.60ca3f1c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.5597d374.chunk.js"
+    "static/js/main.07542201.chunk.js"
   ]
 }
