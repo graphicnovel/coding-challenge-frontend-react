@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stolen-bike-index/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/stolen-bike-index/static/js/main.31e9460e.chunk.js",
-    "main.js.map": "/stolen-bike-index/static/js/main.31e9460e.chunk.js.map",
+    "main.js": "/stolen-bike-index/static/js/main.07542201.chunk.js",
+    "main.js.map": "/stolen-bike-index/static/js/main.07542201.chunk.js.map",
     "runtime-main.js": "/stolen-bike-index/static/js/runtime-main.f6d37ae7.js",
     "runtime-main.js.map": "/stolen-bike-index/static/js/runtime-main.f6d37ae7.js.map",
     "static/js/2.60ca3f1c.chunk.js": "/stolen-bike-index/static/js/2.60ca3f1c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f6d37ae7.js",
     "static/js/2.60ca3f1c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.31e9460e.chunk.js"
+    "static/js/main.07542201.chunk.js"
   ]
 }
